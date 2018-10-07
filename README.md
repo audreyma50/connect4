@@ -1,2 +1,2 @@
 # connect4
-Two-player connect four game
+Personal project in collaboration with a partner to make a two-player connect four game
